@@ -2,6 +2,10 @@
   background-color: #557ab3;
 }
 
+section {
+  padding-top: 6rem;
+}
+
 .love {
   font-size: 1.5em;
 }
